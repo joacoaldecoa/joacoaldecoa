@@ -1,0 +1,1 @@
+async function o({fetch:e}){return{aboutMembers:await(await e("/about.json")).json()}}const a=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{a as _,o as l};

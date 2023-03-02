@@ -1,0 +1,30 @@
+{
+    "social": {
+        "fb": {
+            "url": "https://www.facebook.com/joaquinaldecoainmobiliaria/",
+            "title": "Encuéntrenos en Facebook"
+        },
+        "ig": {
+            "url": "https://www.instagram.com/joaquinaldecoainmobiliaria/",
+            "title": "Encuéntrenos en Instagram"
+        },
+        "tw": {
+            "url": "https://tw.me",
+            "title": "Encuéntrenos en Twitter"
+        }
+    },
+    "address": {
+        "street": "Av Recta Martinolli 7035",
+        "city": "Córdoba",
+        "state": "Córdoba",
+        "zip":"X5121",
+        "country": "Argentina",
+        "gmapLink":"https://goo.gl/maps/qqxWLtoMhiZ1acNq6"
+    },
+    "contact":{
+        "mobile":"03543 47-1995",
+        "wsup":"",
+        "fixed":"",
+        "email":"info@joaquinaldecoa.com.ar"
+    }
+}

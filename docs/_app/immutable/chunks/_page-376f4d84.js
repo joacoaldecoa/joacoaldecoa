@@ -1,0 +1,1 @@
+async function s({fetch:e}){return{cardsItems:await(await e("/home.json")).json()}}const a=Object.freeze(Object.defineProperty({__proto__:null,load:s},Symbol.toStringTag,{value:"Module"}));export{a as _,s as l};

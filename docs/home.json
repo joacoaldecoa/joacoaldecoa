@@ -1,0 +1,31 @@
+[{
+    "title": "Ventas",
+    "subTitle": "Soluciones",
+    "longText": "Nuestro equipo  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "/home/ventas-3-2.jpg"
+  }, {
+    "title": "Tasaciones",
+    "subTitle": "Soluciones",
+    "longText": "Nuestro equipo  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "/home/tasaciones.jpg"
+  }, {
+    "title": "Alquileres",
+    "subTitle": "Soluciones",
+    "longText": "Nuestro equipo  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "/home/alquiler_3-2.jpg"
+  }, {
+    "title": "Alquileres Vacaciones",
+    "subTitle": "Soluciones",
+    "longText": "Nuestro equipo  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "/home/alquiler-vacaciones-3-2.jpg"
+  }, {
+    "title": "Administración",
+    "subTitle": "Soluciones",
+    "longText": "Nuestro equipo  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "/home/consorcios.jpg"
+  }, {
+    "title": "Asesoramiento",
+    "subTitle": "Soluciones",
+    "longText": "Nuestro equipo  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": "/home/asesoramiento-3-2.jpg"
+  }]
